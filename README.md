@@ -5,11 +5,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=1E88E5&center=true&vCenter=true&width=900&lines=Ataxanov+Sherzodbek;Backend+%7C+Database+%7C+Full+Stack;Python+%7C+Django+%7C+PostgreSQL;Data+Architect+%26+API+Builder+🔥;Night+Coder+🌙;Building+Scalable+Digital+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=1E88E5&center=true&vCenter=true&width=900&lines=Dilshod+Durdiboyev;Backend+%7C+Database+%7C+Full+Stack;Python+%7C+Django+%7C+PostgreSQL;Data+Architect+%26+API+Builder+🔥;Night+Coder+🌙;Building+Scalable+Digital+Systems+🚀" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asherzod2197&label=PROFILE+VIEWS&color=1565C0&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ddilshod2197&label=PROFILE+VIEWS&color=1565C0&style=for-the-badge"/>
 </p>
 
 ---
