@@ -52,20 +52,20 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asherzod2197&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=1E88E5&icon_color=1565C0&text_color=90CAF9&ring_color=1976D2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asherzod2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=1E88E5&text_color=90CAF9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddilshod2197&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=1E88E5&icon_color=1565C0&text_color=90CAF9&ring_color=1976D2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddilshod2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2E&title_color=1E88E5&text_color=90CAF9"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asherzod2197&theme=tokyonight&hide_border=true&background=0D1B2E&ring=1E88E5&fire=1565C0&currStreakLabel=1976D2&sideLabels=90CAF9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddilshod2197&theme=tokyonight&hide_border=true&background=0D1B2E&ring=1E88E5&fire=1565C0&currStreakLabel=1976D2&sideLabels=90CAF9"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asherzod2197&theme=tokyo-night&color=1E88E5&line=1565C0&point=90CAF9&bg_color=0D1B2E&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddilshod2197&theme=tokyo-night&color=1E88E5&line=1565C0&point=90CAF9&bg_color=0D1B2E&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asherzod2197&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddilshod2197&theme=github_dark"/>
 </p>
 
 ---
@@ -143,13 +143,13 @@
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://t.me/asherzod2197">
+  <a href="https://t.me/ddilshod2197">
     <img src="https://img.shields.io/badge/Telegram-1565C0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/asherzod2197">
+  <a href="https://linkedin.com/in/ddilshod2197">
     <img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:asherzod2197@gmail.com">
+  <a href="mailto:ddilshod2197@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1976D2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
