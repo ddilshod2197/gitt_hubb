@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1E3E,40:0E3A6E,70:1565C0,100:1976D2&height=220&section=header&text=Ataxanov%20Sherzodbek&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Database%20Engineer%20%7C%20Night%20Coder%20🌙&descAlignY=60&descSize=17&fontAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C1E3E,40:0E3A6E,70:1565C0,100:1976D2&height=220&section=header&text=Dilshod%20Durdiboyev&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Database%20Engineer%20%7C%20Night%20Coder%20🌙&descAlignY=60&descSize=17&fontAlign=50"/>
 </p>
 
 <h1 align="center">
